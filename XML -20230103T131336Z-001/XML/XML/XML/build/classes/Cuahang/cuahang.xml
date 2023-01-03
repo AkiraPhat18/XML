@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<cuahang>
+    
+    <sanpham>
+        <masp>SP01</masp>
+        <nhacc>
+            <mancc>NCC01</mancc>
+            <tenncc>Samsung</tenncc>
+            <diachincc>Ha Noi</diachincc>
+        </nhacc>
+        <tensp>Dien thoai</tensp>
+        <soluong>10</soluong>
+        <gia>2000</gia>
+    </sanpham>
+    
+    
+    <sanpham>
+        <masp>SP02</masp>
+        <nhacc>
+            <mancc>NCC02</mancc>
+            <tenncc>LG</tenncc>
+            <diachincc>Ha Nam</diachincc>
+        </nhacc>
+        <tensp>Quat dien</tensp>
+        <soluong>15</soluong>
+        <gia>4500</gia>
+    </sanpham>
+    
+</cuahang>
